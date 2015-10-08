@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Pretty Swift
+tagline:          ''
+description:      ''
+url:              http://prettyswift.co
+baseurl:          /
+
+author:
+  name:           'Ben Johnson'
+  url:            http://www.bixelcog.com
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/PrettySwift/prettyswift.github.io
