@@ -1,9 +1,9 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          <img src="public/images/logo.png" alt="Pretty Swift Logo">
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -27,9 +27,9 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <span class="sidebar-nav-item">v{{ site.version }}</span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} Bixelcog LLC. All rights reserved.</p>
   </div>
 </div>

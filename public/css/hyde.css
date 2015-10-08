@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Pretty Swift */
+.theme-base-pretty-swift .sidebar {
+  background-color: #ff4203;
+}
+.theme-base-pretty-swift .content a,
+.theme-base-pretty-swift .related-posts li a:hover {
+  color: #ff4203;
+}
