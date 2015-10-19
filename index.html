@@ -1,0 +1,14 @@
+---
+layout: page
+title: Home
+---
+
+<ol>
+{% for article in site.data.lessons %}
+  <li>
+    <a href="{{ article.url }}">
+      {{ article.title }}
+    </a>
+  </li>
+{% endfor %}
+</ol>
