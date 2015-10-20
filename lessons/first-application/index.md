@@ -4,7 +4,7 @@ title: A First Application
 ---
 
 # Lesson Objectives
-- Be able to build and run a simple application
+- Build and run a simple application
 - Learn how to navigate Xcode
 - Design user interfaces with storyboards
 
@@ -14,3 +14,4 @@ title: A First Application
 - Follow along with Lesson 2 of [Intro to iOS App Development with Swift]() on Udacity.
 - Complete the [Build a Basic UI](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1) section of *Start Developing iOS Apps (Swift)*.
 - Complete the [Connect the UI to Code](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson3.html#//apple_ref/doc/uid/TP40015214-CH22-SW1) section of *Start Developing iOS Apps (Swift)*.
+- Read Apple's documentation on the [Model-View-Controller design pattern](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)

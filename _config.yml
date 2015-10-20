@@ -13,6 +13,7 @@ description:      ''
 url:              http://prettyswift.co
 baseurl:          /
 blogurl:          /blog
+lessonurl:        /lessons
 
 author:
   name:           'Ben Johnson'

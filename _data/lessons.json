@@ -6,5 +6,33 @@
     {
         "title": "Introduction to Swift",
         "url": "getting-started"
+    },
+    {
+        "title": "A First Application",
+        "url": "first-application"
+    },
+    {
+        "title": "View Controllers",
+        "url": "view-controllers"
+    },
+    {
+        "title": "Views",
+        "url": "views"
+    },
+    {
+        "title": "Models",
+        "url": "models"
+    },
+    {
+        "title": "Tables",
+        "url": "tables"
+    },
+    {
+        "title": "Navigation",
+        "url": "navigation"
+    },
+    {
+        "title": "Persistence",
+        "url": "persistence"
     }
 ]
