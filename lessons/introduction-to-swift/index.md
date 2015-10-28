@@ -3,7 +3,7 @@ layout: page
 title: Introduction to Swift
 ---
 
-[Swift](http://www.apple.com/swift/) is the programming language developers use to write apps for Apple's platforms like iOS and OS X. Apple announced Swift in 2014. Swift 2 is the most recent version of the language. In this lesson, you will learn enough of the Swift language to start writing iOS apps and to begin reading and understanding Swift code.
+[Swift](http://www.apple.com/swift/) is the programming language developers use to write apps for Apple's platforms like iOS and OS X. Apple announced Swift in 2014. Swift 2.1 is the most recent version of the language. In this lesson, you will learn enough of the Swift language to start writing iOS apps and to begin reading and understanding Swift code.
 
 # Lesson Objectives
 - Learn the basics of the Swift language
