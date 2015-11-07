@@ -14,5 +14,5 @@ title: Introduction to Swift
 3. Read the RayWenderlich.com tutorial [Learn to Code iOS Apps with Swift Tutorial 1: Welcome to Programming](http://www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming).
 4. Read [A Swift Tour](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1) from *The Swift Programming Language (Swift 2)*. Download the Playground file and work through the examples.
 
-# Project
-- Create a new Swift Playground.
+# Exercises
+- Download the [First Application](https://github.com/PrettySwift/first-application) exercises and project. Follow the instructions in the included README.md file to complete the exercises and project.
