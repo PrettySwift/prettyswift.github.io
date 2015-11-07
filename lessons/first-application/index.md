@@ -15,3 +15,6 @@ title: A First Application
 - Complete the [Build a Basic UI](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1) section of *Start Developing iOS Apps (Swift)*.
 - Complete the [Connect the UI to Code](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson3.html#//apple_ref/doc/uid/TP40015214-CH22-SW1) section of *Start Developing iOS Apps (Swift)*.
 - Read Apple's documentation on the [Model-View-Controller design pattern](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
+
+# Exercises
+- Download Pretty Swift's [First Application](https://github.com/PrettySwift/first-application) exercises and project. Follow the instructions in the included README.md file to complete the exercises and project.
