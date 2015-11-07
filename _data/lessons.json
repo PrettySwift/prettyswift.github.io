@@ -4,6 +4,10 @@
         "url": "getting-started"
     },
     {
+        "title": "Introduction to Programming",
+        "url": "introduction-to-programming"
+    },
+    {
         "title": "Introduction to Swift",
         "url": "introduction-to-swift"
     },
