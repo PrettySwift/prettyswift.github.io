@@ -12,4 +12,9 @@ title: Views
 - Read [Communication Patterns](https://www.objc.io/issues/7-foundation/communication-patterns).
 
 # Quiz
-1. What is the difference between the `frame` and `bounds` properties on `UIView`?
+1. What is the difference between the `frame` and `bounds` properties on `UIView`? If you get stuck, read this [resource](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CocoaViewsGuide/Coordinates/Coordinates.html).
+2. What is a delegate? When would you use the notification pattern instead of the delegate pattern?
+
+# Project
+- Checkout the [`views` branch](https://github.com/PrettySwift/SwiftCatalog/tree/views) of the SwiftCatalog project.
+- Follow the instructions in the [README](https://github.com/PrettySwift/SwiftCatalog/blob/views/README.md) file to create a custom view to display a circular image. Code blocks that require modification are marked as `TODO`.

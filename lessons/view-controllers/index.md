@@ -3,10 +3,11 @@ layout: page
 title: View Controllers
 ---
 
-In this lesson, you will learn about `UIViewController`. Throughout the rest of the course, you will write a simple application that will help reinforce what you have learned. You will begin this application in the Project section of this lesson by building a screen to show details about an item sold in the SwiftCatalog.
+In this lesson, you will learn about `UIViewController`. For the rest of the course, you will write a simple application that will help reinforce what you have learned. You will begin this application in the Project section of this lesson by building a screen to show details about an item sold in the SwiftCatalog.
 
 # Lesson Objectives
 - Understand the view controller lifecycle
+- Use view controllers to respond to user input
 
 # Readings
 - Complete the [Work with View Controllers](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson4.html#//apple_ref/doc/uid/TP40015214-CH6-SW1) section of *Start Developing iOS Apps (Swift)*.
@@ -16,9 +17,9 @@ In this lesson, you will learn about `UIViewController`. Throughout the rest of 
 - Read *The Swift Programming Language (Swift 2)* chapter on [Classes and Structures](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82).
 
 # Project
-- [Checkout](https://git-scm.com/docs/git-checkout) the `view-controllers` branch of the SwiftCatalog project.
-- Follow the instructions
+- [Checkout](https://git-scm.com/docs/git-checkout) the [`view-controllers` branch](https://github.com/PrettySwift/SwiftCatalog/tree/view-controllers) of the SwiftCatalog project.
+- Follow the instructions in the [README](https://github.com/PrettySwift/SwiftCatalog/blob/view-controllers/README.md) file to lay out the user interface.
 
-# Optional
+# Advanced
 - Watch [Refactor the Mega Controller](https://vimeo.com/140037432) and view the associated [sample code](https://github.com/andymatuschak/refactor-the-mega-controller).
 - Read [Lighter View Controllers](https://www.objc.io/issues/1-view-controllers/lighter-view-controllers/)

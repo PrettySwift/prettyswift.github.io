@@ -3,6 +3,8 @@ layout: page
 title: A First Application
 ---
 
+In this lesson, you will write your first Swift app, applying the Swift concepts you have already learned to build a functional application.
+
 # Lesson Objectives
 - Build and run a simple application
 - Learn how to navigate Xcode
