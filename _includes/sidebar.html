@@ -11,8 +11,11 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == site.blogurl %} active{% endif %}" href="{{ site.blogurl }}">Blog</a>
+      <!--<a class="sidebar-nav-item{% if page.url == site.blogurl %} active{% endif %}" href="{{ site.blogurl }}">Blog</a>-->
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
+      {% for article in site.data.lessons %}
+          <a class="sidebar-nav-item lesson" href="{{ site.lessonurl }}/{{ article.url }}">{{ article.title }}</a>
+      {% endfor %}
       <span class="sidebar-nav-item">v{{ site.version }}</span>
     </nav>
 

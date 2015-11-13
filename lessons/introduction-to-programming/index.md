@@ -14,5 +14,6 @@ This course assumes a basic knowledge of programming concepts like variables and
 - Complete the browser-based [Try Git](http://try.github.com/) tutorial.
 
 # Optional
+- Download [SourceTree](https://www.sourcetreeapp.com), a free GUI Git client.
 - Explore more resources for learning [Git](https://help.github.com/articles/good-resources-for-learning-git-and-github/).
-- Skim the [Pro Git](http://git-scm.com/book/en/v2) book.
+- Skim the first two chapters of the [Pro Git](http://git-scm.com/book/en/v2) book.

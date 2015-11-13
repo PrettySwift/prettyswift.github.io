@@ -3,6 +3,8 @@ layout: page
 title: A First Application
 ---
 
+In this lesson, you will write your first Swift app, applying the Swift concepts you have already learned to build a functional application.
+
 # Lesson Objectives
 - Build and run a simple application
 - Learn how to navigate Xcode
@@ -16,5 +18,5 @@ title: A First Application
 - Complete the [Connect the UI to Code](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson3.html#//apple_ref/doc/uid/TP40015214-CH22-SW1) section of *Start Developing iOS Apps (Swift)*.
 - Read Apple's documentation on the [Model-View-Controller design pattern](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
 
-# Exercises
-- Download Pretty Swift's [First Application](https://github.com/PrettySwift/first-application) exercises and project. Follow the instructions in the included README.md file to complete the exercises and project.
+# Project
+- Download Pretty Swift's [First Application](https://github.com/PrettySwift/first-application) project. Follow the instructions in the included README.md file.

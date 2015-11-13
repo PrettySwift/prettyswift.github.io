@@ -16,4 +16,6 @@ title: Introduction to Swift
 # Exercises
 - Work through the Playground [Learn the Essentials of Swift](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html#//apple_ref/doc/uid/TP40015214-CH3-SW1).
 - Work through the Playground [A Swift Tour](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1) from *The Swift Programming Language (Swift 2)*.
+
+# Project
 - Download Pretty Swift's [Introduction to Swift](https://github.com/PrettySwift/introduction-to-swift) Playground. Follow the instructions in the included README.md file to complete the exercises and project.
