@@ -14,6 +14,7 @@ url:              http://prettyswift.co
 baseurl:          /
 blogurl:          /blog
 lessonurl:        /lessons
+videooverviewurl: /video-overview
 
 author:
   name:           'Ben Johnson'
@@ -23,7 +24,7 @@ paginate:         5
 paginate_path:    '/blog/page:num/'
 
 # Custom vars
-version:          1.0.0
+version:          1.0.1
 
 github:
   repo:           https://github.com/PrettySwift/prettyswift.github.io
